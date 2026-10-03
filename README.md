@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of taddis/flarum-swedish.** Not for installation: use [Packagist](https://packagist.org/packages/taddis/flarum-swedish) or the [upstream repository](https://github.com/taddis/flarum-swedish).
 
-**0** versions archived · Latest: [`1.0.4`](https://github.com/flarchive/taddis-flarum-swedish/tree/archive/v1.0.4) · License: `MIT` · Flarum: `^0.1.0-beta.14`
+**5** versions archived · Latest: [`1.0.4`](https://github.com/flarchive/taddis-flarum-swedish/tree/archive/v1.0.4) · License: `MIT` · Flarum: `^0.1.0-beta.14`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2020-04-18 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/taddis-flarum-swedish/tree/archive/v1.0.0) |
+| `1.0.1` | 2020-04-18 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/taddis-flarum-swedish/tree/archive/v1.0.1) |
+| `1.0.2` | 2020-04-18 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/taddis-flarum-swedish/tree/archive/v1.0.2) |
+| `1.0.3` | 2020-04-19 | `>=0.1.0-beta.8 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/taddis-flarum-swedish/tree/archive/v1.0.3) |
+| `1.0.4` | 2020-12-21 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/taddis-flarum-swedish/tree/archive/v1.0.4) |
 
 Catalog entry: [packages/taddis-flarum-swedish.json](https://github.com/flarchive/archive-index/blob/main/packages/taddis-flarum-swedish.json)
 
